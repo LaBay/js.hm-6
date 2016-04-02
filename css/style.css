@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Steamy Regular';
-    src: url('../fonts/steamy-webfont.eot');
-    src: url('../fonts/steamy-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/steamy-webfont.woff2') format('woff2'),
-         url('../fonts/steamy-webfont.woff') format('woff'),
-         url('../fonts/steamy-webfont.ttf') format('truetype'),
-         url('../fonts/steamy-webfont.svg#steamyregular') format('svg');
+    font-family: 'Alarm clockregular';
+    src: url('../fonts/alarm_clock-webfont.eot');
+    src: url('../fonts/alarm_clock-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/alarm_clock-webfont.woff2') format('woff2'),
+         url('../fonts/alarm_clock-webfont.woff') format('woff'),
+         url('../fonts/alarm_clock-webfont.ttf') format('truetype'),
+         url('../fonts/alarm_clock-webfont.svg#alarm_clockregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
