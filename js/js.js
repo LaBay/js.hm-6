@@ -33,8 +33,6 @@ function startWasPressed(){
 
 function stopWasPressed(){
 	clearInterval(startOn);
-	start.setAttribute('display', 'block');
-	stop.setAttribute('display', 'none');
 	stop.style.display='none';
 	start.style.display='block';
 };
