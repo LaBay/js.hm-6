@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Steamy Regular';
+    src: url('../fonts/steamy-webfont.eot');
+    src: url('../fonts/steamy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/steamy-webfont.woff2') format('woff2'),
+         url('../fonts/steamy-webfont.woff') format('woff'),
+         url('../fonts/steamy-webfont.ttf') format('truetype'),
+         url('../fonts/steamy-webfont.svg#steamyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.watch{
+	margin: 150px 0 0 150px;
+	width: 1500px;
+	height: 500px;
+	padding-top: 140px;
+	border-radius: 30px;
+	text-align: center;
+	box-sizing: border-box;
+	background-color: black;
+}
+
+.buttonBlock{
+	margin: 20px 0 0 150px;
+	width: 1500px;
+	height: 100px;
+	box-sizing: border-box;
+}
+
+span{
+	font-family: "Steamy Regular";
+	font-size: 200px;
+	color: white;
+	text-shadow: 0px -5px 18px yellow;
+}
+
+button{
+	height: 150px;
+	width: 750px;
+	display: inline-block;
+	float: left;
+	border-radius: 30px;
+	background-color: black;
+	color: #00ff00;
+	font-family: "Steamy Regular";
+	font-size: 70px;
+	outline: none;
+}
+
+#stop{
+	display: none;
+}
+
+button:hover{
+	text-shadow: 0px -5px 18px #d2ff4d;
+}
